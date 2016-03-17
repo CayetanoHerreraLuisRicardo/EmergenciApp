@@ -1,0 +1,10 @@
+{
+  "Items": [
+    {
+      "Type": "Section",
+      "Title": "TELÉFONOS DE EMERGENCIA",
+      "Icon": "/Assets/DataImages/menuitem-icon.png",
+      "Target": "TELEFONOSDEEMERGENCIA1Page"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "Items": [
+    {
+      "Nombre": "Centro de Asistencia Juridica en Línea de la Consejería Jurídica y de Servicios Legales ",
+      "Subtitle": "5128-1122",
+      "imagen": "/Assets/DataImages/Content.gif",
+      "_id": "8c749e81-c42c-4ae8-bd54-aef7641654ac"
+    },
+    {
+      "Nombre": "Honestel ",
+      "Subtitle": "5533-5533",
+      "imagen": "/Assets/DataImages/Content-1.gif",
+      "_id": "08d5f191-bc6a-4aec-af6a-96a37cbf237e"
+    },
+    {
+      "Nombre": "Denuncias por celular ",
+      "Subtitle": "5533",
+      "imagen": "/Assets/DataImages/Content-2.gif",
+      "_id": "8dc297e1-78df-4ec0-a907-1f052655c9fb"
+    },
+    {
+      "Nombre": "Denuncia Ciudadana contra la extorsión telefónica ",
+      "Subtitle": "5533-5533",
+      "imagen": "/Assets/DataImages/Content-3.gif",
+      "_id": "758d405b-f74c-4bab-a725-90c4205dafe2"
+    },
+    {
+      "Nombre": "Linea de Atencion a victimas de Trata de Personas",
+      "Subtitle": "5346-8800",
+      "imagen": "/Assets/DataImages/Content-4.gif",
+      "_id": "490e2311-9adb-4d23-950a-f72ee7867868"
+    },
+    {
+      "Nombre": "Atención a Victimas del Delito",
+      "Subtitle": "01800 0074533",
+      "imagen": "/Assets/DataImages/Content-5.gif",
+      "_id": "e81e124c-3118-49d2-a541-30fb2cf8d137"
+    },
+    {
+      "Nombre": "Teléfono de Atención de la Secretaría de Desarrollo Económico",
+      "Subtitle": "5687-9270",
+      "imagen": "/Assets/DataImages/Content-6.gif",
+      "_id": "87d8e8f5-0894-42a3-bac0-b5dc496b6aa5"
+    },
+    {
+      "Nombre": "Centro de Atención a Migrantes y sus Familias. (desde México)",
+      "Subtitle": "01 800 009 11 11",
+      "imagen": "/Assets/DataImages/Content-7.gif",
+      "_id": "25c4a461-479d-4099-9951-b80ee7178cb0"
+    },
+    {
+      "Nombre": "Atención Ciudadana de la Secretaría de Educación (linea 1)",
+      "Subtitle": "5080-5707",
+      "imagen": "/Assets/DataImages/Content-8.gif",
+      "_id": "517a411a-9026-4ae6-9419-66d2473c951e"
+    },
+    {
+      "Nombre": "Atención Ciudadana de la Secretaría de Educación (linea 2)",
+      "Subtitle": "5080-5708",
+      "imagen": "/Assets/DataImages/Content-9.gif",
+      "_id": "5fd355c1-ded9-47fd-be44-853a56d3adac"
+    },
+    {
+      "Nombre": "Justina te ayuda",
+      "Subtitle": "5588-3388",
+      "imagen": "/Assets/DataImages/Content-10.gif",
+      "_id": "1e4a222e-3a0f-4a4f-a251-a678d14d2ae6"
+    },
+    {
+      "Nombre": "Locatel ",
+      "Subtitle": "5658-1111",
+      "imagen": "/Assets/DataImages/Content-11.gif",
+      "_id": "4cd7e068-0711-4c9c-84f3-8613fd415fdc"
+    },
+    {
+      "Nombre": "Atencion Ciudadana de la Secretaría de Obras y Servicios",
+      "Subtitle": "072",
+      "imagen": "/Assets/DataImages/Content-12.gif",
+      "_id": "ce6f3595-6861-40cb-af3c-d8799ab54da6"
+    },
+    {
+      "Nombre": "Emergencias mayores",
+      "Subtitle": "5683-2222",
+      "imagen": "/Assets/DataImages/Content-13.gif",
+      "_id": "44e07349-8f66-4946-b772-37599ded6002"
+    },
+    {
+      "Nombre": "Bomberos",
+      "Subtitle": "5768-2532",
+      "imagen": "/Assets/DataImages/Content-14.gif",
+      "_id": "53933fff-8c4e-470c-bd35-25bafa15d3ab"
+    },
+    {
+      "Nombre": "Reporte de fugas de agua, baches y postes de luz ",
+      "Subtitle": "5654-3210",
+      "imagen": "/Assets/DataImages/Content-15.gif",
+      "_id": "3773cd46-34ac-46c7-bb65-50f6bfaf41a4"
+    },
+    {
+      "Nombre": "Unidad Tormenta",
+      "Subtitle": "5654-3210",
+      "imagen": "/Assets/DataImages/Content-16.gif",
+      "_id": "96143e02-1d6b-4ccf-930a-061382aca0e2"
+    },
+    {
+      "Nombre": "Policía",
+      "Subtitle": "066",
+      "imagen": "/Assets/DataImages/Content-17.gif",
+      "_id": "8e5ad1f6-c9a4-4903-989a-5097b414bcc4"
+    },
+    {
+      "Nombre": "Cruz Roja (+Urgente +Emergencia) ",
+      "Subtitle": "065",
+      "imagen": "/Assets/DataImages/Content-18.gif",
+      "_id": "6794b1f4-37d0-4010-90c8-e538463fd92c"
+    },
+    {
+      "Nombre": "Cruz Roja",
+      "Subtitle": "53-95-11-11",
+      "imagen": "/Assets/DataImages/Content-19.gif",
+      "_id": "b04ed8ac-a03c-427a-bcdc-feb534ee30a8"
+    },
+    {
+      "Nombre": "Medicina a distancia de la Secretaría de Salud",
+      "Subtitle": "5132-0909",
+      "imagen": "/Assets/DataImages/Content-20.gif",
+      "_id": "35554d36-976d-477a-a434-95ef30d221cc"
+    },
+    {
+      "Nombre": "En todo el pais",
+      "Subtitle": "01800 00 44 800",
+      "imagen": "/Assets/DataImages/Content-21.gif",
+      "_id": "a0098bca-5c64-4c1d-8164-fe802b18cbb0"
+    },
+    {
+      "Nombre": "CAS denuncia 24 Hr- 365 días ",
+      "Subtitle": "5208-9898 ",
+      "imagen": "/Assets/DataImages/Content-22.gif",
+      "_id": "8285f0ec-8187-4f3d-afc7-8d0f9d5c4d32"
+    },
+    {
+      "Nombre": "Llamadas de emergencia Policía DF",
+      "Subtitle": "066",
+      "imagen": "/Assets/DataImages/Content-23.gif",
+      "_id": "4b3b1a81-b7a6-404e-8119-2faff768915e"
+    },
+    {
+      "Nombre": "Denuncias Anónima Contra el Narcomenudeo y Delincuencia Organizada",
+      "Subtitle": "089",
+      "imagen": "/Assets/DataImages/Content-24.gif",
+      "_id": "889a1e0a-75fd-49f2-83e0-f3f63204e5d9"
+    },
+    {
+      "Nombre": "Información Turística",
+      "Subtitle": "01800-0089090",
+      "imagen": "/Assets/DataImages/Content-25.gif",
+      "_id": "53ea9bcb-e35f-4d5e-a7a0-5c761783d667"
+    }
+  ]
+}
