@@ -7,7 +7,7 @@ Application for windows pc and windows phone that has emergency numbers within t
 
 > Screenshot Windows PC:
 
-![windows PC](https://github.com/CayetanoHerreraLuisRicardo/EmergenciApp/blob/master/AppStudio.Shared/Assets/screenshot1.png)
+![windows PC](https://github.com/CayetanoHerreraLuisRicardo/EmergenciApp/blob/master/AppStudio.Shared/Assets/screenshot2.png)
 
 Link to the application in the Windows Store:
 
